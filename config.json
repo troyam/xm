@@ -20,7 +20,7 @@
     "pools": [
         {
             "url": "xmr.pool.minergate.com:45700",
-            "user": "robik123.345@gmail.com",
+            "user": "crypto@metasploit.tech",
             "pass": "x",
             "keepalive": true,
             "nicehash": false,
